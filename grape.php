@@ -1,16 +1,16 @@
 <?php
-/**
- * Grape Slider WordPress Plugin.
- *
- * @package   Grape
- *
- * Plugin Name:       Grape Slider WP
- * Description:       This Slipery little Slider is the most advanced responsive HTML5 WordPress slider plugin with layer and Touch Swipe Navigation that works smoothly on devices too.
- * Version:           2.10.2
- * Text Domain:       masterslider
- * License URI:       LICENSE.txt
- * Domain Path:       /languages
- * Tested up to: 	  4.1.0
+/* 
+Grape Slider WordPress Plugin.
+
+@package   Grape
+
+Plugin Name:       Grape Slider WP
+Description:       This Slipery little Slider is the most advanced responsive HTML5 WordPress slider plugin with layer and Touch Swipe Navigation that works smoothly on devices too.
+Version:           2.10.2
+GitHub Plugin URI:	unetics/formed
+GitHub Branch:		master
+Domain Path:       /languages
+Tested up to: 	  4.1.0
  */
 
 // If this file is called directly, abort.
