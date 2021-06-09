@@ -6,7 +6,7 @@ Grape Slider WordPress Plugin.
 
 Plugin Name:       Grape Slider WP
 Description:       This Slipery little Slider is the most advanced responsive HTML5 WordPress slider plugin with layer and Touch Swipe Navigation that works smoothly on devices too.
-Version:           2.10.2
+Version:           2.10.3
 GitHub Plugin URI:	unetics/formed
 GitHub Branch:		master
 Domain Path:       /languages
