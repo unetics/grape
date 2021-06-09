@@ -7,10 +7,16 @@ jobs:
     steps:
     - name: 🚚 Get latest code
       uses: actions/checkout@v2
-    
+
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
         server: ftp.makedev.com.au
         username: gitactions@makedev.com.au
-        password: $fGG6E[+t[@N
+        password: ${{ secrets.password }}
+        exclude: .git*
+          - **.git*
+          - .git*/**
+          -  **/.git*/**
+          - node_modules/**
+          - node_modules/**/*
